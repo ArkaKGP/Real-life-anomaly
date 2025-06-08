@@ -22,7 +22,7 @@ This project demonstrates:
 ---
 
 ## Requirement
-* python == 3.7
+* python == 3.10
 * pytorch == 1.5
 * tqdm
 * sklearn
@@ -64,20 +64,6 @@ You must download and extract the dataset manually into the project directory be
 |  All object classes |           0.941          |           0.978          |
 |     All classes     |           0.955          |           0.973          |
 
-
- <!-- ### ROC Curve
-
-* ResNet18
-
-<p align="center">
-    <img src="imgs/roc_curve_r18.png" width="1000"\>
-</p>
-
-* Wide_ResNet50_2
-
-<p align="center">
-    <img src="imgs/roc_curve_wr50.png" width="1000"\>
-</p> -->
 
 ### Localization examples
 
